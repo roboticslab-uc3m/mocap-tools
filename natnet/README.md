@@ -9,7 +9,7 @@ triggerClient [ServerIP] [ Instruction ]
 [ServerIP]           IP address of the server (e.g. 192.168.0.107) 
 [Instruction]        "rec" / "stop"
 
-If you want to execute these commands from your python code, see launchTriggerExample.py
+If you want to execute these commands from your python code, see [launchTriggerExample.py](https://github.com/roboticslab-uc3m/mocap-tools/blob/master/natnet/samples/TriggerClient/launchTriggerExample.py).
 
 ### Library installation
 - Copy the file located in `/include` (headers) in `/usr/local/include/natnet`
